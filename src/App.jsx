@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useEffect} from "react";
 import "./index.css";
 import { createRoot } from "react-dom/client";
 import { NavBar } from "./components/NavBar";
@@ -6,13 +6,19 @@ import { Hero } from "./components/Hero";
 import { Courses } from "./components/Courses";
 import { Elements } from "./components/Elements";
 import { Footer } from "./components/Footer";
+import AOS from "aos";
+import "aos/dist/aos.css";
 function App() {
+
+  useEffect(() => {
+    AOS.init({ duration: 1000 });
+  }, []);
 
   return (
     <div className=" bg-white dark:bg-[#222]">
       <div className="relative overflow-hidden">
         <div className="all z-0"></div>
-        <NavBar/>
+        <NavBar />
         <Hero/>
         <Courses/>
       </div>

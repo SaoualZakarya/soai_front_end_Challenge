@@ -13,7 +13,7 @@ export const Footer = () => {
 
   return (
     <div className='md:flex justify-between container py-[80px]'>
-        <div className='flex md:mb-0 mb-14 items-center flex-col gap-10 '>
+        <div className='flex md:mb-0 mb-14 items-center flex-col gap-10 '   data-aos="fade-right">
             {
                 theme === 'dark' && <img className='w-[83px] h-[32px]' src={logo_white} alt='img' />
             }
@@ -28,7 +28,7 @@ export const Footer = () => {
                 <a href='' > <img src={telegram} alt='alt' /> </a>
             </div>
         </div>
-        <div className='flex gap-14 justify-center text-black dark:text-white'>
+        <div className='flex gap-14 justify-center text-black dark:text-white'   data-aos="fade-left">
             <div className='flex flex-col '>
                 <h1 className='text-xl pb-4 font-bold'> Products</h1>
                 <span className='pb-4'>Courses</span>

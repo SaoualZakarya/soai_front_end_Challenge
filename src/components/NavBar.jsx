@@ -32,7 +32,7 @@ export const NavBar = () => {
     const [collapse,setCollapse] = useState(true)
 
   return (
-    <div>
+    <div  data-aos="fade-down">
         <div className='container relative z-10 flex items-center justify-between py-8'>
             {
                 darkMode && <img src={Logo_white} alt="logo"/>
