@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Good Times Lt';
+    src: url('GoodTimesLt-Italic.eot');
+    src: local('GoodTimesLt-Italic'),
+        url('GoodTimesLt-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesLt-Italic.woff2') format('woff2'),
+        url('GoodTimesLt-Italic.woff') format('woff'),
+        url('GoodTimesLt-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times Bk';
+    src: url('GoodTimesBk-Regular.eot');
+    src: local('GoodTimesBk-Regular'),
+        url('GoodTimesBk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesBk-Regular.woff2') format('woff2'),
+        url('GoodTimesBk-Regular.woff') format('woff'),
+        url('GoodTimesBk-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Hv';
+    src: url('GoodTimesHv-Italic.eot');
+    src: local('GoodTimesHv-Italic'),
+        url('GoodTimesHv-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesHv-Italic.woff2') format('woff2'),
+        url('GoodTimesHv-Italic.woff') format('woff'),
+        url('GoodTimesHv-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times Rg';
+    src: url('GoodTimesRg-Regular.eot');
+    src: local('GoodTimesRg-Regular'),
+        url('GoodTimesRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesRg-Regular.woff2') format('woff2'),
+        url('GoodTimesRg-Regular.woff') format('woff'),
+        url('GoodTimesRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Lt';
+    src: url('GoodTimesLt-Regular.eot');
+    src: local('GoodTimesLt-Regular'),
+        url('GoodTimesLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesLt-Regular.woff2') format('woff2'),
+        url('GoodTimesLt-Regular.woff') format('woff'),
+        url('GoodTimesLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times El';
+    src: url('GoodTimesEl-Italic.eot');
+    src: local('GoodTimesEl-Italic'),
+        url('GoodTimesEl-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesEl-Italic.woff2') format('woff2'),
+        url('GoodTimesEl-Italic.woff') format('woff'),
+        url('GoodTimesEl-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times Rg';
+    src: url('GoodTimesRg-Italic.eot');
+    src: local('GoodTimesRg-Italic'),
+        url('GoodTimesRg-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesRg-Italic.woff2') format('woff2'),
+        url('GoodTimesRg-Italic.woff') format('woff'),
+        url('GoodTimesRg-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times El';
+    src: url('GoodTimesEl-Regular.eot');
+    src: local('GoodTimesEl-Regular'),
+        url('GoodTimesEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesEl-Regular.woff2') format('woff2'),
+        url('GoodTimesEl-Regular.woff') format('woff'),
+        url('GoodTimesEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Bk';
+    src: url('GoodTimesBk-Italic.eot');
+    src: local('GoodTimesBk-Italic'),
+        url('GoodTimesBk-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesBk-Italic.woff2') format('woff2'),
+        url('GoodTimesBk-Italic.woff') format('woff'),
+        url('GoodTimesBk-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times Bad Times';
+    src: url('GoodTimesBadTimes-Regular.eot');
+    src: local('GoodTimesBadTimes-Regular'),
+        url('GoodTimesBadTimes-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesBadTimes-Regular.woff2') format('woff2'),
+        url('GoodTimesBadTimes-Regular.woff') format('woff'),
+        url('GoodTimesBadTimes-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Hv';
+    src: url('GoodTimesHv-Regular.eot');
+    src: local('GoodTimesHv-Regular'),
+        url('GoodTimesHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesHv-Regular.woff2') format('woff2'),
+        url('GoodTimesHv-Regular.woff') format('woff'),
+        url('GoodTimesHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Rg';
+    src: url('GoodTimesRg-Bold.eot');
+    src: local('GoodTimesRg-Bold'),
+        url('GoodTimesRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesRg-Bold.woff2') format('woff2'),
+        url('GoodTimesRg-Bold.woff') format('woff'),
+        url('GoodTimesRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Good Times Ul';
+    src: url('GoodTimesUl-Italic.eot');
+    src: local('GoodTimesUl-Italic'),
+        url('GoodTimesUl-Italic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesUl-Italic.woff2') format('woff2'),
+        url('GoodTimesUl-Italic.woff') format('woff'),
+        url('GoodTimesUl-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Good Times Rg';
+    src: url('GoodTimesRg-BoldItalic.eot');
+    src: local('GoodTimesRg-BoldItalic'),
+        url('GoodTimesRg-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimesRg-BoldItalic.woff2') format('woff2'),
+        url('GoodTimesRg-BoldItalic.woff') format('woff'),
+        url('GoodTimesRg-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
